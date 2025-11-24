@@ -19,5 +19,5 @@ for (let i=0;i<heroi.length; i++){
     } else if (herois.xp >= 8001) {
         nivel = "ascendente";
     }
-    console.log(`${herois.nome} esta no nivel ${nivel}`);
+    console.log(`O heroi de nome ${herois.nome} esta no nivel ${nivel}`);
 }
