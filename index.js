@@ -1,7 +1,7 @@
 let heroi = [
     {nome:"maria", xp:800},
     {nome:"pedro", xp:3500},
-    {nome:"carkos", xp:9000}
+    {nome:"carlos", xp:9000}
 ];
 
 for (let i=0;i<heroi.length; i++){
